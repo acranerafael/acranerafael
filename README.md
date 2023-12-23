@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+# Hey, I'm Rafael! Nice to Meet You! 👋 <img src="https://raw.githubusercontent.com/acranerafael/acranerafael/main/wave.gif" width="30px">
 <!--
 **acranerafael/acranerafael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
