@@ -1,4 +1,5 @@
-### Sejam bem-vindos!  ??
+### Sejam bem-vindos! &nbsp;  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%">
+
 <h1>
   Welcome to my profile! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 </h1>
@@ -14,6 +15,11 @@
 ###
 
 <p>
+  From <b>Rio de Janeiro, Brazil</b>&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/128/5344/5344453.png" width="15"/>
+</p>
+
+<p>
   I'm a Full-stack developer focused on creating innovative solutions that integrate technical skills with a pursuit of operational excellence. I firmly believe in the importance of the DevOps mindset to strengthen collaboration between teams, automate processes, and ensure the development of reliable and scalable software.
   </br>
 </p>
@@ -22,14 +28,12 @@
   Sou desenvolvedor full-stack focado em criar soluções inovadoras que integram habilidades técnicas com a busca pela excelência operacional. Acredito firmemente na importância da mentalidade DevOps para fortalecer a colaboração entre equipes, automatizar processos e garantir o desenvolvimento de softwares confiáveis e escaláveis.
 </p>
 
-<p>
-  From <b>Rio de Janeiro, Brazil</b>&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/128/5344/5344453.png" width="15"/>
-</p>
+
 
 ###
 
 ## [My Stacks]
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
