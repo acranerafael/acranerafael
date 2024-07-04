@@ -55,7 +55,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![NODE JS](https://img.shields.io/badge/Node%20js-88CE34?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 ![KUBERNETES](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
-![AWS](	https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
+![AWS](	https://img.shields.io/badge/Amazon_AWS-F7A623?style=for-the-badge&logo=amazonaws&logoColor=black)&nbsp;
 ![GoogleCloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
 ![cloudflare](	https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)&nbsp;
 ![MOCHA](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)&nbsp;
