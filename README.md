@@ -25,7 +25,7 @@
 </p>
 
 <p>
-  Sou desenvolvedor full-stack focado em criar soluções inovadoras que integram habilidades técnicas com a busca pela excelência operacional. Acredito firmemente na importância da mentalidade DevOps para fortalecer a colaboração entre equipes, automatizar processos e garantir o desenvolvimento de softwares confiáveis e escaláveis.
+  Sou desenvolvedor full-stack focado em criar solu??es inovadoras que integram habilidades t?cnicas com a busca pela excel?ncia operacional. Acredito firmemente na import?ncia da mentalidade DevOps para fortalecer a colabora??o entre equipes, automatizar processos e garantir o desenvolvimento de softwares confi?veis e escal?veis.
 </p>
 
 
