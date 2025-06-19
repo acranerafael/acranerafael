@@ -10,8 +10,6 @@
   <img height="" src="https://github.com/acranerafael/acranerafael/blob/main/im.png?raw=true"  />
 </div>
 
->"The mind that opens to a new idea never returns to its original size." - Albert Einstein
-
 ###
 
 <p>
