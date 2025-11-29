@@ -36,7 +36,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)&nbsp;
+<!-- ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)&nbsp; -->
 
 ##
 ![LARAVEL](https://img.shields.io/badge/Laravel-F54D3A?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
@@ -71,9 +71,13 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![WinNT](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-## Competitive Programming
+## [Competitive Programming]
 
 [![beecrowd Ranking](https://img.shields.io/badge/beecrowd-%2320%20no%20Brasil-4B2D83?style=for-the-badge&logo=beecrowd&logoColor=FFD53D)](https://judge.beecrowd.com/pt/users/country/br)
+<p>
+  Active profile on the beecrowd platform, with solutions for challenges of different difficulty levels in competitive programming, focusing on algorithm problems, data structures, optimization paradigms, and other categories that require logical reasoning and efficient code.
+</p>
 
-Perfil ativo na plataforma beecrowd, com soluções para desafios de diferentes níveis de dificuldade em programação competitiva, focando em problemas de algoritmos, estruturas de dados, paradigmas de otimização e outras categorias que exigem raciocínio lógico e código eficiente.
-
+<p>
+  Perfil ativo na plataforma beecrowd, com soluções para desafios de diferentes níveis de dificuldade em programação competitiva, focando em problemas de algoritmos, estruturas de dados, paradigmas de otimização e outras categorias que exigem raciocínio lógico e código eficiente.
+</p>
