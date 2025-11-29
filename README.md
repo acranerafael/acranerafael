@@ -73,7 +73,7 @@
 
 ## [Competitive Programming]
 
-[![beecrowd Ranking](https://img.shields.io/badge/beecrowd-%2320%20no%20Brasil-4B2D83?style=for-the-badge&logo=beecrowd&logoColor=FFD53D)](https://judge.beecrowd.com/pt/users/country/br)
+[![beecrowd Ranking](https://img.shields.io/badge/beecrowd-%2320%20no%20Brasil-4B2D83?style=for-the-badge&labelColor=FCEA10)](https://judge.beecrowd.com/pt/users/country/br)
 <p>
   Active profile on the beecrowd platform, with solutions for challenges of different difficulty levels in competitive programming, focusing on algorithm problems, data structures, optimization paradigms, and other categories that require logical reasoning and efficient code.
 </p>
@@ -81,3 +81,5 @@
 <p>
   Perfil ativo na plataforma beecrowd, com soluções para desafios de diferentes níveis de dificuldade em programação competitiva, focando em problemas de algoritmos, estruturas de dados, paradigmas de otimização e outras categorias que exigem raciocínio lógico e código eficiente.
 </p>
+
+
