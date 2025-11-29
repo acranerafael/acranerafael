@@ -71,3 +71,9 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![WinNT](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+## Competitive Programming
+
+[![beecrowd Ranking](https://img.shields.io/badge/beecrowd-%2320%20no%20Brasil-4B2D83?style=for-the-badge&logo=beecrowd&logoColor=FFD53D)](https://judge.beecrowd.com/pt/users/country/br)
+
+Perfil ativo na plataforma beecrowd, com soluções para desafios de diferentes níveis de dificuldade em programação competitiva, focando em problemas de algoritmos, estruturas de dados, paradigmas de otimização e outras categorias que exigem raciocínio lógico e código eficiente.
+
