@@ -20,12 +20,12 @@
 </p>
 
 <p>
-  I'm a Full-stack developer focused on creating innovative solutions that integrate technical skills with a pursuit of operational excellence. I firmly believe in the importance of the DevOps mindset to strengthen collaboration between teams, automate processes, and ensure the development of reliable and scalable software.
+  I'm a DevOps engineer focused on information security and process management, building solutions that combine operational efficiency, reliability, and security in scalable environments. In my daily work, I design continuous delivery flows, manage infrastructure in a declarative and version-controlled way as code, standardize the use of containers, and invest in end-to-end observability to make the development lifecycle more predictable and easier to evolve. I firmly believe in the importance of the DevOps mindset to strengthen collaboration between teams, automate processes, and ensure robust and sustainable software in production.​
   </br>
 </p>
 
 <p>
-  Sou desenvolvedor full-stack focado em criar soluções inovadoras que integram habilidades técnicas com a busca pela excelência operacional. Acredito firmemente na importância da mentalidade DevOps para fortalecer a colaboração entre equipes, automatizar processos e garantir o desenvolvimento de softwares confiáveis e escaláveis.
+  Sou engenheiro DevOps com foco em segurança da informação e gestão de processos, criando soluções que unem eficiência operacional, confiabilidade e segurança em ambientes escaláveis. No dia a dia, estruturo fluxos de entrega contínua, trato a infraestrutura de forma declarativa e versionada como código, padronizo o uso de containers e invisto em observabilidade para tornar o ciclo de desenvolvimento mais previsível e fácil de evoluir. Acredito firmemente na importância da mentalidade DevOps para fortalecer a colaboração entre equipes, automatizar processos e garantir softwares robustos e sustentáveis em produção.
 </p>
 
 
@@ -37,7 +37,8 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)&nbsp;
 
 ##
 ![LARAVEL](https://img.shields.io/badge/Laravel-F54D3A?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
